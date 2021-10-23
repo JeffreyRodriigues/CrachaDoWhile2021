@@ -1,3 +1,3 @@
-# -RS-CRACHA-DOWHILE2021 ---Mobile--
+# -ROCKETSEAT-CRACHA-DOWHILE2021 ---Mobile--
 
-https://jeffreyrodriigues.github.io/-RS-CRACHA-DOWHILE2021/
+https://jeffreyrodriigues.github.io/-ROCKETSEAT-CRACHA-DOWHILE2021/
